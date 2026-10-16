@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
-  "name": "io.github.aispiringcoder4302/seo-aeo-geo",
+  "name": "app.seoaeogeo/seo-aeo-geo",
   "title": "SEO·AEO·GEO",
-  "description": "Audit a page for Google and AI search (ChatGPT, Claude, Perplexity) and get a fix pack your agent can apply and verify.",
+  "description": "Audit a page for Google and AI search (ChatGPT, Claude, Perplexity); get a fix pack to apply.",
   "version": "1.0.0",
   "websiteUrl": "https://seoaeogeo.app/agents",
   "repository": { "url": "https://github.com/aispiringcoder4302/seo-aeo-geo-mcp", "source": "github" },
