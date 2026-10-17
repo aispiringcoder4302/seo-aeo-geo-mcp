@@ -31,6 +31,14 @@ claude mcp add --transport http seoaeogeo https://seoaeogeo.app/mcp
 url = "https://seoaeogeo.app/mcp"
 ```
 
+**Claude Code skill** (audit, fix on a branch, re-check)
+
+```bash
+npx skills add aispiringcoder4302/seo-aeo-geo-mcp
+```
+
+Or clone this repo: `.mcp.json` at the root connects any MCP client that reads it.
+
 Then ask:
 
 > Audit https://your-site.com with seoaeogeo, fix what you can in this repo on a new branch, and tell me which settings I need to change.
